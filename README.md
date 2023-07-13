@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/toxicstoxm/server-restart/total.svg)]()
 # Server-Restart
 
 Server-Restart is a simple Bukkit plugin that allows you to schedule restarts for your Minecraft server.
