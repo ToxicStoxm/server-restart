@@ -1,0 +1,36 @@
+Server-Restart:
+  Enable-Restart-Message: true
+  Restart-Message: "§c§lServer restart in %TIME%"
+  Timed-Messages:
+    10-min: true
+    5-min: true
+    3-min: false
+    2-min: false
+    1-min: true
+    30-sec: false
+    10-sec: false
+    5-sec: false
+    1-sec: false
+    10-sec-countdown: true
+  Restart-Times:
+    #Warning: Times need to be at least 10 minutes apart from each other
+    #Note: This OVERWRITES Presets
+      Schedule:
+        - "00:00"
+       #- "04:00"
+       #- "08:00"
+       #- "12:00"
+       #- "16:00"
+       #- "20:00"
+      Presets:
+         Enabled: false
+         Presets:
+            15-min: false
+            30-min: false
+            1-h: false
+            2-h: false
+            4-h: false
+            6-h: false
+            8-h: false
+            12-h: false
+            1-d: false

@@ -1,0 +1,4 @@
+name: server-restart
+version: '1.0'
+main: com.serverrestart.Server_restart
+api-version: '1.20'
