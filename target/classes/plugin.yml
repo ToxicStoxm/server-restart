@@ -1,4 +1,0 @@
-name: Server-Restart
-version: '1.0'
-main: com.x_tornado10.server_restart.Server_Restart
-api-version: 1.20
