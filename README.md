@@ -37,5 +37,5 @@ While this plugin is primarily developed for personal use, feel free to share an
 
 ## Credits
 
-C++ Restart Programm: https://github.com/hannescam
-Bukkit Plugin: https://github.com/ToxicStoxm
+- C++ Restart Programm: https://github.com/hannescam  
+- Bukkit Plugin: https://github.com/ToxicStoxm
