@@ -36,6 +36,6 @@ Server-Restart:
             1-d: false
   Experimental:
     #Ignore if you don't know what you are doing
-    #Requires Linux + Sh script from my GitHub
+    #Requires Linux + C++ Programm from my GitHub
     #More inf oon my GitHub
     System-Reboot: false
