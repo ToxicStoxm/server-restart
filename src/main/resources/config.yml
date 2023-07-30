@@ -34,3 +34,8 @@ Server-Restart:
             8-h: false
             12-h: false
             1-d: false
+  Experimental:
+    #Ignore if you don't know what you are doing
+    #Requires Linux + C++ Program from my GitHub
+    #More inf oon my GitHub
+    System-Reboot: false
