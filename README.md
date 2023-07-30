@@ -34,3 +34,8 @@ Example: Messages displayed 10, 5, and 1 minute(s) before restarting: 10-min: tr
 ## Suggestions
 
 While this plugin is primarily developed for personal use, feel free to share any cool ideas or suggestions you may have.
+
+## Credits
+
+C++ Restart Programm: https://github.com/hannescam
+Bukkit Plugin: https://github.com/ToxicStoxm
